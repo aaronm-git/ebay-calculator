@@ -19,7 +19,7 @@ const EbayOptions = (props) => {
                             Net earnings of item sold, after all fees considered.
                     </Form.Text>
                     </Form.Group>
-                    <Form.Check
+                    {/* <Form.Check
                         type={'checkbox'}
                         id={'paypal-checkbox'}
                         label={'Paypal'}
@@ -28,7 +28,7 @@ const EbayOptions = (props) => {
                     />
                     <Form.Text className="text-muted">
                         PayPal fees is 2.9% + $0.30 of the total selling price including the sales tax. This fee is calculated before eBay fees.
-                    </Form.Text>
+                    </Form.Text> */}
                 </Form>
             </Card.Body>
         </Card>
