@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.83da0b16.chunk.css",
-    "main.js": "/static/js/main.1b6c4a4d.chunk.js",
-    "main.js.map": "/static/js/main.1b6c4a4d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bd0a86b2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bd0a86b2.js.map",
-    "static/js/2.9ea2662d.chunk.js": "/static/js/2.9ea2662d.chunk.js",
-    "static/js/2.9ea2662d.chunk.js.map": "/static/js/2.9ea2662d.chunk.js.map",
-    "static/js/3.b01aa3fc.chunk.js": "/static/js/3.b01aa3fc.chunk.js",
-    "static/js/3.b01aa3fc.chunk.js.map": "/static/js/3.b01aa3fc.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.83da0b16.chunk.css.map": "/static/css/main.83da0b16.chunk.css.map",
-    "static/js/2.9ea2662d.chunk.js.LICENSE.txt": "/static/js/2.9ea2662d.chunk.js.LICENSE.txt"
+    "main.css": "/projects/ebay-calculator/static/css/main.83da0b16.chunk.css",
+    "main.js": "/projects/ebay-calculator/static/js/main.1b6c4a4d.chunk.js",
+    "main.js.map": "/projects/ebay-calculator/static/js/main.1b6c4a4d.chunk.js.map",
+    "runtime-main.js": "/projects/ebay-calculator/static/js/runtime-main.1b272e01.js",
+    "runtime-main.js.map": "/projects/ebay-calculator/static/js/runtime-main.1b272e01.js.map",
+    "static/js/2.9ea2662d.chunk.js": "/projects/ebay-calculator/static/js/2.9ea2662d.chunk.js",
+    "static/js/2.9ea2662d.chunk.js.map": "/projects/ebay-calculator/static/js/2.9ea2662d.chunk.js.map",
+    "static/js/3.b01aa3fc.chunk.js": "/projects/ebay-calculator/static/js/3.b01aa3fc.chunk.js",
+    "static/js/3.b01aa3fc.chunk.js.map": "/projects/ebay-calculator/static/js/3.b01aa3fc.chunk.js.map",
+    "index.html": "/projects/ebay-calculator/index.html",
+    "static/css/main.83da0b16.chunk.css.map": "/projects/ebay-calculator/static/css/main.83da0b16.chunk.css.map",
+    "static/js/2.9ea2662d.chunk.js.LICENSE.txt": "/projects/ebay-calculator/static/js/2.9ea2662d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd0a86b2.js",
+    "static/js/runtime-main.1b272e01.js",
     "static/js/2.9ea2662d.chunk.js",
     "static/css/main.83da0b16.chunk.css",
     "static/js/main.1b6c4a4d.chunk.js"
